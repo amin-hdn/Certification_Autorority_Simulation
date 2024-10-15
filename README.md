@@ -1,6 +1,3 @@
-Here’s an updated `README.md` that reflects the goal of helping users understand the working flow of PKI infrastructure, focusing on how hashing, signatures, encryption, and decryption work:
-
----
 
 # PKI Workflow Demonstration: Hashing, Signing, and Encryption
 
